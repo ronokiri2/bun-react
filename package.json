@@ -12,6 +12,7 @@
     ]
   },
   "devDependencies": {
+    "bun-types": "^0.3.0",
     "react-refresh": "0.10.0",
     "typescript": "latest"
   }
